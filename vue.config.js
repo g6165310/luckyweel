@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '<luckywheel>'
+  publicPath: 'luckywheel'
 } 
