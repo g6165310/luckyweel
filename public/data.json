@@ -1,0 +1,40 @@
+{
+  "prizes": [
+    {
+      "text": "Flight",
+      "total": 1,
+      "icon": " flight",
+      "index": 0
+    },
+    {
+      "text": "Child",
+      "total": 4,
+      "icon": "child_care",
+      "index": 1
+    },
+    {
+      "text": "Anything",
+      "total": 5,
+      "icon":"stars",
+      "index": 2
+    },
+    {
+      "text": "Wifi",
+      "total": 5,
+      "icon": "wifi",
+      "index": 3
+    },
+    {
+      "text": "Wish",
+      "total": 5,
+      "icon":"cake",
+      "index": 4
+    },
+    {
+      "text": "Nothing",
+      "total": 0,
+      "icon":"sentiment_dissatisfied",
+      "index": 5
+    }
+  ]
+}

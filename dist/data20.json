@@ -1,0 +1,104 @@
+{
+  "prizes": [
+    {
+      "text": "20",
+      "total": 69,
+      "index": 0
+    },
+    {
+      "text": "19",
+      "total": 20,
+      "index": 1
+    },
+    {
+      "text": "18",
+      "total": 10,
+      "index": 2
+    },
+    {
+      "text": "17",
+      "total": 5,
+      "index": 3
+    },
+    {
+      "text": "16",
+      "total": 1,
+      "index": 4
+    },
+    {
+      "text": "15",
+      "total": 1,
+      "index": 5
+    },
+    {
+      "text": "14",
+      "total": 1,
+      "index": 6
+    },
+    {
+      "text": "13",
+      "total": 1,
+      "index": 7
+    },
+    {
+      "text": "12",
+      "total": 1,
+      "index": 8
+    },
+    {
+      "text": "11",
+      "total": 1,
+      "index": 9
+    },
+    {
+      "text": "10",
+      "total": 1,
+      "index": 10
+    },
+    {
+      "text": "09",
+      "total": 1,
+      "index": 11
+    },
+    {
+      "text": "08",
+      "total": 1,
+      "index": 12
+    },
+    {
+      "text": "07",
+      "total": 1,
+      "index": 13
+    },
+    {
+      "text": "06",
+      "total": 1,
+      "index": 14
+    },
+    {
+      "text": "05",
+      "total": 1,
+      "index": 15
+    },
+    {
+      "text": "04",
+      "total": 1,
+      "index": 16
+    },
+    {
+      "text": "03",
+      "total": 1,
+      "index": 17
+    },
+    {
+      "text": "02",
+      "total": 1,
+      "index": 18
+    },
+    {
+      "text": "01",
+      "total": 1,
+      "index": 19
+    }
+  ]
+}
