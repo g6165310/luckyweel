@@ -1,6 +1,6 @@
 <template>
   <div class="pointer-container">
-    <img class="pointer" src="/hand.svg" :style="{'transform':`rotate(${rotateDeg}deg)`}">
+    <img class="pointer" src="../assets/hand.svg" :style="{'transform':`rotate(${rotateDeg}deg)`}">
     <div class="press-btn" @click.prevent.capture="startWheelGame">press</div>
   </div>
 </template>

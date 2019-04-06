@@ -12,7 +12,7 @@ export default new vuex.Store({
   },
   actions: {
     getData(context, payload) {
-      const api = payload===2017?`./data.json`:`./data20.json`;
+      const api = payload===2017?`../public/data.json`:`../public/data.json`;
       axios.get(api).then((response) => {
         context.commit('RAWDATA', response.data.prizes)
         context.dispatch('getAllCount')
